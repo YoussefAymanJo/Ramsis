@@ -4352,7 +4352,7 @@
 				(xyz -180 180 -0)
 			)
 		)
-		(model "D:/Ramsis/Footprints/charger/TP4056_Charging_Module_Type_C.step"
+		(model "D:/Ramsis/Ramsis/Footprints_libraries/charger/TP4056_Charging_Module_Type_C.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5343,7 +5343,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "D:/Ramsis/Footprints/voice/kicad-adafruit-MAX98357-main/adafruit-MAX98357.step"
+		(model "D:/Ramsis/Ramsis/Footprints_libraries/voice/kicad-adafruit-MAX98357-main/adafruit-MAX98357.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6236,7 +6236,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "D:/Ramsis/Footprints/esp32/ESP32-S3-DEVKITC-1-N8R2.step"
+		(model "D:/Ramsis/Ramsis/Footprints_libraries/esp32/ESP32-S3-DEVKITC-1-N8R2.step"
 			(offset
 				(xyz 0 0 0)
 			)

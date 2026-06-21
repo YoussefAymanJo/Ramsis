@@ -1,7 +1,9 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_D3.0mm,1,LED,
 "J1, J3, J4",PinHeader_1x03_P1.00mm_Vertical,3,Conn_01x03_Pin,
 J2,PinHeader_1x04_P1.00mm_Vertical,1,Conn_01x04_Pin,
 "J5, J6",JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,2,Conn_01x02_Pin,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,Resistor,
 SW1,SW_Slide_SPDT_Angled_CK_OS102011MA1Q,1,SW_Nidec_CAS-120A1,
 U1,esp32 s55,1,ESP32-S3-DEVKITC-1-N8R2,
 U2,MODULE_TP4056_MICRO-USB_CHARGER_-_1A,1,TP4056_MICRO-USB_CHARGER_-_1A,
