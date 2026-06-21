@@ -10,7 +10,8 @@ Battery,power up circuit,https://makerselectronics.com/product/rechargeable-1865
 switch,turn on / off,https://store.fut-electronics.com/products/slide-switch-3-pin-spdt,1,0.1
 M3 srews shcs 12 mm,,https://www.amazon.eg/-/en/Screws-City-12mm-Allen-Socket/dp/B08GY9YFYC,5,4.4
 M3 heatinsert 4*5,housing where screw sit ,https://ampere-electronics.com/product/m3-knurled-brass-threaded-insert-nut/,5,0.5
+Led Green,run when switch is open,https://www.ram-e-shop.com/ar/shop/3mm-led-gg-led-3mm-green-color-lyd-3mm-lwn-khdr-6194,1,0.01
 jumpers,connect part with pcb,https://ampere-electronics.com/product/male-to-female-20cm-10-pin-jumper-wire-set/,2,0.3
 pcb printing,..,..,1,45
 3d prinitng,Printing enclosure,..,2,17.49
-Total,..,..,..,94.93
+Total,..,..,..,94.94
