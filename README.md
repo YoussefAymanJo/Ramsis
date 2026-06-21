@@ -24,8 +24,8 @@ I started  sketching the enclosure based on the PCB, then made the top cover, ad
 i will us this for firmware https://github.com/78/xiaozhi-esp32 and https://github.com/EDISON-SCIENCE-CORNER/AI-CHAT-BOT/tree/main/3D%20FILES  while editing the code while building.
 ## BOM 
 I made the BOM  and needed materials ,in egypt then convert its price to USD dollar.
-<img width="849" height="548" alt="Screenshot 2026-06-21 024117" src="https://github.com/user-attachments/assets/73261705-843c-4669-9741-7273e31d2bd8" />
+<img width="659" height="525" alt="Screenshot 2026-06-21 235338" src="https://github.com/user-attachments/assets/a1dda205-6702-4b8f-b12b-e1ab7f8997b0" />
 
 ## Zine 
-<img width="1080" height="1350" alt="Zine" src="https://github.com/user-attachments/assets/874c97b0-85a0-41b7-a275-1a66177ad645" />
+<img width="1080" height="1350" alt="Zine" src="https://github.com/user-attachments/assets/bf429aa9-76c0-4b1c-a5ca-aa5ec4852346" />
 
