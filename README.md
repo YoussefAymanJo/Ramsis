@@ -1,6 +1,6 @@
 # Ramsis
 ## Description
-
+Desk Robot, your daily companion, can answer any question you ask about weather, news, or even songs. it powered by ESP32 S3. and has lovely face interact with you
 ## Why it was built
 Actually,i feel boring and uncomfortable on my studying and working hours on my study or on pc.so,i made this robot to be ai companion for me. Interact with my emotiions and answer my questions.this robot mainly for entertainment and rapid helper companion in any quetion look like Jarvis.
 ## How to use it / Build it
