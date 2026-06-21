@@ -2,9 +2,9 @@
 ## Description
 
 ## Why it was built
-
+Actually,i feel boring and uncomfortable on my studying and working hours on my study or on pc.so,i made this robot to be ai companion for me. Interact with my emotiions and answer my questions.this robot mainly for entertainment and rapid helper companion in any quetion look like Jarvis.
 ## How to use it / Build it
-
+first, fabricate and print pcb,then print 3d models,and wire circuit and test it.then assemlbe all together and test again.
 ## Schematic
 I made a schematic for my keyboard, and sketch simpled diagram for schematic.
 <img width="962" height="646" alt="Screenshot 2026-06-21 044231" src="https://github.com/user-attachments/assets/74630c70-51d8-4d4a-96d4-b8f016eb4eb4" />
