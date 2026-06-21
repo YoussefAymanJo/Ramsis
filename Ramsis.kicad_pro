@@ -490,7 +490,7 @@
       "plot": "D:/Ramsis/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../Ramsis.step",
+      "step": "../../Ramsis.step",
       "svg": "",
       "vrml": ""
     },
