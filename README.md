@@ -27,5 +27,5 @@ I made the BOM  and needed materials ,in egypt then convert its price to USD dol
 <img width="659" height="525" alt="Screenshot 2026-06-21 235338" src="https://github.com/user-attachments/assets/a1dda205-6702-4b8f-b12b-e1ab7f8997b0" />
 
 ## Zine 
-<img width="1080" height="1350" alt="Zine" src="https://github.com/user-attachments/assets/bf429aa9-76c0-4b1c-a5ca-aa5ec4852346" />
+<img width="1080" height="1350" alt="Zine" src="https://github.com/user-attachments/assets/d430d7ba-5abf-413e-8b76-c7338fdccef5" />
 
