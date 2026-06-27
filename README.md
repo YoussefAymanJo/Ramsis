@@ -7,20 +7,20 @@ Actually,i feel boring and uncomfortable on my studying and working hours on my 
 first, fabricate and print pcb,then print 3d models,and wire circuit and test it.then assemlbe all together and test again.
 ## Schematic
 I made a schematic for my keyboard, and sketch simpled diagram for schematic.
-<img width="962" height="646" alt="Screenshot 2026-06-21 044231" src="https://github.com/user-attachments/assets/74630c70-51d8-4d4a-96d4-b8f016eb4eb4" />
+<img width="1195" height="805" alt="Screenshot 2026-06-27 184216" src="https://github.com/user-attachments/assets/ebe6cda6-f869-40ae-98a2-3b8560167e08" />
 
 ## PCB
 I outlined shape first,the routed the pcb and added 3d models
-<img width="823" height="524" alt="Screenshot 2026-06-21 060234" src="https://github.com/user-attachments/assets/e06c2a4f-4bc6-4e58-a722-05dc66f24b14" />
-<img width="1082" height="758" alt="Screenshot 2026-06-21 050845" src="https://github.com/user-attachments/assets/8e8b9eac-9def-4088-8067-8d6c87a18ab8" />
+<img width="1248" height="782" alt="Screenshot 2026-06-27 184205" src="https://github.com/user-attachments/assets/6784d3ed-b439-4c58-b079-80d13bd9006b" />
+<img width="1089" height="730" alt="Screenshot 2026-06-21 235509" src="https://github.com/user-attachments/assets/e6732470-071d-4fe2-bfa2-b56933b0fb1c" />
 Wiring Diagram :
 <img width="1037" height="638" alt="Screenshot 2026-06-27 183643" src="https://github.com/user-attachments/assets/31cc2dac-a619-46ab-9c52-adb2bf08376c" />
 
 ## CAD
 I started  sketching the enclosure based on the PCB, then made the top cover, added openings, and assembled.
-<img width="1920" height="632" alt="Assembly_3" src="https://github.com/user-attachments/assets/fe274912-9bb0-42ec-b2b6-30e917bba6fb" />
-<img width="1096" height="720" alt="image" src="https://github.com/user-attachments/assets/bab53461-b490-444a-8c75-74c1f8e5d16b" />
-<img width="1411" height="687" alt="image" src="https://github.com/user-attachments/assets/215bdcd1-5e36-4f2a-954f-4bc2838893e4" />
+<img width="1065" height="743" alt="Screenshot 2026-06-27 184404" src="https://github.com/user-attachments/assets/82b1bea7-62ea-41b5-ba86-e01e5777e9c1" />
+<img width="1101" height="697" alt="Screenshot 2026-06-21 235808" src="https://github.com/user-attachments/assets/9ae3ac8f-fff1-4f02-9dd1-fb3d44c3dc56" />
+<img width="763" height="573" alt="Screenshot 2026-06-21 235821" src="https://github.com/user-attachments/assets/a6660569-5d2b-4603-9b51-f99af00b3e5f" />
 
 ## Firmware
 i will us this for firmware https://github.com/78/xiaozhi-esp32 and https://github.com/EDISON-SCIENCE-CORNER/AI-CHAT-BOT/tree/main/3D%20FILES  while editing the code while building.
