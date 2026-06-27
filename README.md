@@ -13,6 +13,8 @@ I made a schematic for my keyboard, and sketch simpled diagram for schematic.
 I outlined shape first,the routed the pcb and added 3d models
 <img width="823" height="524" alt="Screenshot 2026-06-21 060234" src="https://github.com/user-attachments/assets/e06c2a4f-4bc6-4e58-a722-05dc66f24b14" />
 <img width="1082" height="758" alt="Screenshot 2026-06-21 050845" src="https://github.com/user-attachments/assets/8e8b9eac-9def-4088-8067-8d6c87a18ab8" />
+Wiring Diagram :
+<img width="1037" height="638" alt="Screenshot 2026-06-27 183643" src="https://github.com/user-attachments/assets/31cc2dac-a619-46ab-9c52-adb2bf08376c" />
 
 ## CAD
 I started  sketching the enclosure based on the PCB, then made the top cover, added openings, and assembled.
